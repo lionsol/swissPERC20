@@ -10,3 +10,5 @@ npm install
 npx hardhat run scripts/deploy.js --network swisstronik
 
 npx hardhat run scripts/mint.js --network swisstronik
+
+npx hardhat run scripts/transfer.js --network swisstronik
